@@ -1,0 +1,120 @@
+2020-12-08 21:38:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:38:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:38:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:41:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:41:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:41:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:41:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GROUP[*] (NAME, ID) VALUES (?, ?)"; expected "identifier"; SQL statement:
+insert into group (name, id) values (?, ?) [42001-200]
+2020-12-08 21:41:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:43:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:43:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:43:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:46:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:46:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:46:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:46:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GROUP[*] (NAME, ID) VALUES (?, ?)"; expected "identifier"; SQL statement:
+insert into group (name, id) values (?, ?) [42001-200]
+2020-12-08 21:46:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:47:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:47:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:47:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:47:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GROUP[*] (NAME, ID) VALUES (?, ?)"; expected "identifier"; SQL statement:
+insert into group (name, id) values (?, ?) [42001-200]
+2020-12-08 21:47:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:50:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:50:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:50:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:50:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GROUP[*] (NAME, ID) VALUES (?, ?)"; expected "identifier"; SQL statement:
+insert into group (name, id) values (?, ?) [42001-200]
+2020-12-08 21:50:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:52:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:52:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:52:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:52:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GROUP[*] (NAME, ID) VALUES (?, ?)"; expected "identifier"; SQL statement:
+insert into group (name, id) values (?, ?) [42001-200]
+2020-12-08 21:52:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:53:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-08 21:53:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE GROUP[*] (ID BIGINT NOT NULL, NAME VARCHAR(255) NOT NULL, PRIMARY KEY (ID))"; expected "identifier"; SQL statement:
+create table group (id bigint not null, name varchar(255) not null, primary key (id)) [42001-200]
+2020-12-08 21:53:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE GROUP[*] ADD CONSTRAINT UK_OY92AK6U4RMBQ75JGB14NPHT7 UNIQUE (NAME)"; expected "identifier"; SQL statement:
+alter table group add constraint UK_oy92ak6u4rmbq75jgb14npht7 unique (name) [42001-200]
+2020-12-08 21:53:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GROUP[*] (NAME, ID) VALUES (?, ?)"; expected "identifier"; SQL statement:
+insert into group (name, id) values (?, ?) [42001-200]
+2020-12-08 21:53:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE IF EXISTS GROUP[*] CASCADE "; expected "identifier"; SQL statement:
+drop table if exists group CASCADE  [42001-200]
+2020-12-10 23:33:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT USER0_.ID AS ID1_1_, USER0_.FIRST_NAME AS FIRST_NA2_1_, USER0_.MY_GROUP_ID AS MY_GROUP4_1_, USER0_.LAST_NAME AS LAST_NAM3_1_, USER0_.USER_TYPE_ID AS USER_TYP5_1_ FROM USER USER0_ INNER JOIN MY_GROUP GROUP1_ ON INNER[*] JOIN USER_TYPE USERTYPE2_ ON WHERE USER0_.FIRST_NAME LIKE ('%'||?||'%') OR USER0_.LAST_NAME LIKE ('%'||?||'%') OR GROUP1_.NAME LIKE ('%'||?||'%') OR USERTYPE2_.NAME LIKE ('%'||?||'%')"; expected "NOT, EXISTS, INTERSECTS, UNIQUE"; SQL statement:
+select user0_.id as id1_1_, user0_.first_name as first_na2_1_, user0_.my_group_id as my_group4_1_, user0_.last_name as last_nam3_1_, user0_.user_type_id as user_typ5_1_ from user user0_ inner join my_group group1_ on inner join user_type usertype2_ on where user0_.first_name like ('%'||?||'%') or user0_.last_name like ('%'||?||'%') or group1_.name like ('%'||?||'%') or usertype2_.name like ('%'||?||'%') [42001-200]
+2020-12-10 23:36:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT USER0_.ID AS ID1_1_, USER0_.FIRST_NAME AS FIRST_NA2_1_, USER0_.MY_GROUP_ID AS MY_GROUP4_1_, USER0_.LAST_NAME AS LAST_NAM3_1_, USER0_.USER_TYPE_ID AS USER_TYP5_1_ FROM USER USER0_ INNER JOIN MY_GROUP GROUP1_ ON INNER[*] JOIN USER_TYPE USERTYPE2_ ON WHERE USER0_.FIRST_NAME LIKE ('%'||?||'%') OR USER0_.LAST_NAME LIKE ('%'||?||'%')"; expected "NOT, EXISTS, INTERSECTS, UNIQUE"; SQL statement:
+select user0_.id as id1_1_, user0_.first_name as first_na2_1_, user0_.my_group_id as my_group4_1_, user0_.last_name as last_nam3_1_, user0_.user_type_id as user_typ5_1_ from user user0_ inner join my_group group1_ on inner join user_type usertype2_ on where user0_.first_name like ('%'||?||'%') or user0_.last_name like ('%'||?||'%') [42001-200]
+2020-12-10 23:37:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT USER0_.ID AS ID1_1_, USER0_.FIRST_NAME AS FIRST_NA2_1_, USER0_.MY_GROUP_ID AS MY_GROUP4_1_, USER0_.LAST_NAME AS LAST_NAM3_1_, USER0_.USER_TYPE_ID AS USER_TYP5_1_ FROM USER USER0_ INNER JOIN USER_TYPE USERTYPE1_ ON WHERE[*] USER0_.FIRST_NAME LIKE ('%'||?||'%') OR USER0_.LAST_NAME LIKE ('%'||?||'%')"; expected "NOT, EXISTS, INTERSECTS, UNIQUE"; SQL statement:
+select user0_.id as id1_1_, user0_.first_name as first_na2_1_, user0_.my_group_id as my_group4_1_, user0_.last_name as last_nam3_1_, user0_.user_type_id as user_typ5_1_ from user user0_ inner join user_type usertype1_ on where user0_.first_name like ('%'||?||'%') or user0_.last_name like ('%'||?||'%') [42001-200]
+2020-12-10 23:38:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT USER0_.ID AS ID1_1_, USER0_.FIRST_NAME AS FIRST_NA2_1_, USER0_.MY_GROUP_ID AS MY_GROUP4_1_, USER0_.LAST_NAME AS LAST_NAM3_1_, USER0_.USER_TYPE_ID AS USER_TYP5_1_ FROM USER USER0_ INNER JOIN USER_TYPE USERTYPE1_ ON WHERE[*] USER0_.FIRST_NAME LIKE ('%'||?||'%') OR USER0_.LAST_NAME LIKE ('%'||?||'%')"; expected "NOT, EXISTS, INTERSECTS, UNIQUE"; SQL statement:
+select user0_.id as id1_1_, user0_.first_name as first_na2_1_, user0_.my_group_id as my_group4_1_, user0_.last_name as last_nam3_1_, user0_.user_type_id as user_typ5_1_ from user user0_ inner join user_type usertype1_ on where user0_.first_name like ('%'||?||'%') or user0_.last_name like ('%'||?||'%') [42001-200]
